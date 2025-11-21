@@ -167,3 +167,10 @@ h1, ul, p{
     background: linear-gradient(#ffb60d , #e59317 );
 
 }
+
+@media(max-width:1200px){
+    .introducao h1{
+        font-size: 40px;
+    }
+    
+}
